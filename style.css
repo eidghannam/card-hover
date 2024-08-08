@@ -89,13 +89,13 @@ box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15);
 }
 
 .container .card .custome-content .mountain {
-    background-image: url(/mountain.jpg);
+    background-image: url(mountain.jpg);
 } 
 .container .card .custome-content .forest {
-    background-image: url(/forest.jpg);
+    background-image: url(forest.jpg);
 }
 .container .card .custome-content .sea {
-    background-image: url(/sea.avif);
+    background-image: url(sea.avif);
 }
 .container .card:hover {
     height: 400px;
